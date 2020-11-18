@@ -1,4 +1,4 @@
-questão 1 da lista
+
 #include<stdio.h>
 #include <ctype.h>
 
