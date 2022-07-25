@@ -33,6 +33,7 @@ int main(void) {
     printf("Reprovados Prova 1: %d",repProva1);
     printf("Reprovados Prova 2: %d",repProva2);
     printf("Reprovados Prova 3: %d",repProva3);
+  
 
 
 
