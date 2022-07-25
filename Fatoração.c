@@ -20,4 +20,5 @@ int main(void) {
 
   printf("Numero fatorado: %d",fat);
   return 0;
+   
 }
